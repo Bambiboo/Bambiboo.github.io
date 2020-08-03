@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+}
+
+.blue-text {
+    color: rgb(0, 110, 201)
+}
+
+p.center.blue-text {
+    margin: 30px 0px 0px 0px;
+}
+
+.font-thai-Pattaya{
+    font-family: 'Pattaya', sans-serif;
+}
+
+.font-thai-Prompt{
+    font-family: 'Prompt', sans-serif;
+}
